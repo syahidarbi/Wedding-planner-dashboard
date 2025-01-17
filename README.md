@@ -6,10 +6,8 @@ this repository contain dashboard for wedding planner in speradsheet https://doc
   
   **Anggaran dan Pengeluaran:** Mengatur anggaran pernikahan dengan mencatat setiap pengeluaran yang terjadi, serta mengontrol anggaran yang sudah teralokasi.
 
-  **Daftar Tamu:** Membuat dan mengelola daftar tamu, termasuk pengaturan RSVP, kontak, dan preferensi makanan.
+  **Daftar Tamu:** Membuat dan mengelola daftar tamu, termasuk pengaturan RSVP.
 
-  **Jadwal Acara:** Menyusun jadwal acara pernikahan dari awal hingga akhir, memastikan tidak ada detail yang terlewat.
-
-  **Vendor dan Layanan:** Menyimpan informasi vendor yang terlibat dalam pernikahan, termasuk kontak, biaya, dan status pembayaran.
+  **Vendor dan Layanan:** Menyimpan informasi vendor yang terlibat dalam pernikahan, termasuk kontak, biaya.
 
   **Checklist Perencanaan:** Memastikan bahwa setiap tugas yang harus diselesaikan sebelum hari pernikahan tercatat dengan jelas dan dapat dipantau kemajuannya.
