@@ -2,6 +2,8 @@ this repository contain dashboard for wedding planner in speradsheet https://doc
 
 
 **Fitur Utama:**
+  
+  
   **Anggaran dan Pengeluaran:** Mengatur anggaran pernikahan dengan mencatat setiap pengeluaran yang terjadi, serta mengontrol anggaran yang sudah teralokasi.
 
   **Daftar Tamu:** Membuat dan mengelola daftar tamu, termasuk pengaturan RSVP, kontak, dan preferensi makanan.
